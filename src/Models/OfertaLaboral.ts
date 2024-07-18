@@ -1,4 +1,4 @@
-import {Empresa} from "./Empresa";
+import { Empresa } from "./Empresa";
 import { Postulacion } from "./Postulacion";
 export class OfertaLaboral{
 
